@@ -1,0 +1,7 @@
+{
+  "name": "Multi-Modal AI Chat",
+  "description": "A sophisticated multi-modal AI chat application that supports text, voice, and image-based interactions. Users can configure their preferred AI provider (Gemini or OpenRouter) and engage in intelligent conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
